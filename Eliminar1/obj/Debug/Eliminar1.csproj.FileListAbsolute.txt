@@ -1,0 +1,7 @@
+C:\C#\Eliminar1\bin\Debug\Eliminar1.exe.config
+C:\C#\Eliminar1\bin\Debug\Eliminar1.exe
+C:\C#\Eliminar1\bin\Debug\Eliminar1.pdb
+C:\C#\Eliminar1\obj\Debug\Eliminar1.csproj.AssemblyReference.cache
+C:\C#\Eliminar1\obj\Debug\Eliminar1.csproj.CoreCompileInputs.cache
+C:\C#\Eliminar1\obj\Debug\Eliminar1.exe
+C:\C#\Eliminar1\obj\Debug\Eliminar1.pdb
