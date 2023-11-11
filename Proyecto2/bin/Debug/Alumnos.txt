@@ -1,1 +1,3 @@
 Shandon,2,100
+Shan,3,12
+Shandon,13,2000
